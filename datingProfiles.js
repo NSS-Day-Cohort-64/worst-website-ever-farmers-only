@@ -7,11 +7,11 @@ export const datingProfiles = [
         lookingFor: "Someone who understands gitHub",
     },
     {
-        name: "abc123" ,
-        photo: "abc123",
-        theories: "abc123",
-        favoriteConspiracyQuote: "abc123",
-        lookingFor: "abc123",
+        name: "Greg" ,
+        photo: "https://cohort7.nashvillesoftwareschool.com/images/GregKorteBW.jpg",
+        theories: "The moon is made of cheese, and NASA has been covering it up for years. Birds are actually government drones used to spy on us, that's why I only shower in underground bunkers. ",
+        favoriteConspiracyQuote: `"The pyramids were actually built by ancient aliens who were really into geometry." - Confucius`,
+        lookingFor: "Someone who can make a cool sound effect when I leave rooms in Zoom.",
     },
     {
         name: "abc123" ,
