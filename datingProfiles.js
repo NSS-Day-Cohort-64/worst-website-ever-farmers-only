@@ -35,10 +35,10 @@ export const datingProfiles = [
         lookingFor: "Someone to love me as much as Casey loves his cat.",
     },
     {
-        name: "abc123" ,
-        photo: "abc123",
-        theories: "abc123",
-        favoriteConspiracyQuote: "abc123",
-        lookingFor: "abc123",
+        name: "Farm Hand Phil" ,
+        photo: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdesignyoutrust.com%2Fwp-content%2Fuploads%2F2018%2F12%2Firish-farmer-calendar1.jpg&tbnid=R7qwAKSycTkjMM&vet=12ahUKEwiw3-u2lc3-AhXfjoQIHbd0Am0QMyglegUIARCrAg..i&imgrefurl=https%3A%2F%2Fdesignyoutrust.com%2F2018%2F12%2F2019-irish-farmer-calendar-is-here%2F&docid=ucd_Ex6sQtCbqM&w=660&h=495&q=funny%20farmer%20pictures&ved=2ahUKEwiw3-u2lc3-AhXfjoQIHbd0Am0QMyglegUIARCrAg",
+        theories: "The people in charge have all been replaced by lizards.",
+        favoriteConspiracyQuote: `"People say I'm crazy for believing in lizard people, but have you seen Mark Zuckerberg's eyes?" - Steve`,
+        lookingFor: "A non-lizard person.",
     }
 ]
