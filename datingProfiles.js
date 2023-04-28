@@ -29,10 +29,10 @@ export const datingProfiles = [
     },
     {
         name: "Mr. Rainbow Unicorn Sparkly Lights" ,
-        photo: "abc123",
-        theories: "abc123",
-        favoriteConspiracyQuote: "abc123",
-        lookingFor: "abc123",
+        photo: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Ffunny-farmer-man-shovel-rake-open-mouthed-expressive-portrait-79253819.jpg&tbnid=CtwiFjdfPSYjsM&vet=12ahUKEwiw3-u2lc3-AhXfjoQIHbd0Am0QMygGegUIARDZAQ..i&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fstock-photo-funny-farmer-man-shovel-rake-open-mouthed-expressive-portrait-image79253819&docid=3tKfUPWKHvOr-M&w=1300&h=957&q=funny%20farmer%20pictures&ved=2ahUKEwiw3-u2lc3-AhXfjoQIHbd0Am0QMygGegUIARDZAQ",
+        theories: "The real reason the Titanic sank is because it hit an iceberg made of government secrets.",
+        favoriteConspiracyQuote: `"I don't trust anyone who says they don't believe in conspiracy theories. It's like saying you don't believe in unicorns." - Neil deGrasse Tyson`,
+        lookingFor: "Someone to love me as much as Casey loves his cat.",
     },
     {
         name: "abc123" ,
