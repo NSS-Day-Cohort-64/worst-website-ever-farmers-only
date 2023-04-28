@@ -14,11 +14,11 @@ export const datingProfiles = [
         lookingFor: "Someone who can make a cool sound effect when I leave rooms in Zoom.",
     },
     {
-        name: "abc123" ,
-        photo: "abc123",
-        theories: "abc123",
-        favoriteConspiracyQuote: "abc123",
-        lookingFor: "abc123",
+        name: "Tiana" ,
+        photo: "https://media.licdn.com/dms/image/C5603AQFkRWUAzFZUeA/profile-displayphoto-shrink_400_400/0/1640138554353?e=1687996800&v=beta&t=6gtN_Vo4I6WwM2iMySYkYjmzzkRjBGo5tTEPYdIdyTc",
+        theories: "The earth is actually a giant cosmic snow globe, and earthquakes are just someone shaking it up. Area 51 is just a decoy. The real secret government alien research facility is located in a Walmart parking lot.",
+        favoriteConspiracyQuote: `"The real reason the Titanic sank is because it hit an iceberg made of government secrets." - Jesus`,
+        lookingFor: "A good ole farm hand who loves to build legos.",
     },
     {
         name: "abc123" ,
